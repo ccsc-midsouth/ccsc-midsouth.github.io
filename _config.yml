@@ -90,7 +90,7 @@ resources:
     image: assets/images/rephactor-logo.png
     url: https://rephactor.com
   - name: ACM2y
-    image: assets/images/acm2y-logo_a.png
+    image: assets/images/acm2y-logo_a.jpg
     url: https://acm2y.acm.org
   - name: GitHub
     image: assets/images/GitHub-logo.png
