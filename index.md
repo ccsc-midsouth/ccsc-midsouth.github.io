@@ -14,20 +14,6 @@ layout: course-single
 
 {{ site.description }}
 
-## <a name="goals">Learning Goals</a>
-
-Upon completing this course, our goal is for you to be able to:
-
-* Build computer programs to:
-  * Effectively solve realistic problems.
-  * Organize, analyze, and summarize realistic data sets.
-* Read, understand, and explain a computer program.
-* Understand and explain computation through:
-  * Thinking logically and precisely.
-  * Making and testing hypotheses.
-* Use modular components to decompose problems and assemble solutions.
-* Create abstract, generalized models from specific, complex examples.
-
 ## <a name="resources">Sponsors</a>
 
 {% include resources.html content=site.resources %}
