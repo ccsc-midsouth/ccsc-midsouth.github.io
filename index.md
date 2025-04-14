@@ -5,8 +5,8 @@
 # For courses with a single offering in the _config.yml,
 # uncomment the following line and comment out the course-multi line
 
-#layout: course-single
-layout: course-multi
+layout: course-single
+#layout: course-multi
 ---
 <br/>
 
@@ -28,13 +28,9 @@ Upon completing this course, our goal is for you to be able to:
 * Use modular components to decompose problems and assemble solutions.
 * Create abstract, generalized models from specific, complex examples.
 
-## <a name="resources">Resources</a>
+## <a name="resources">Sponsors</a>
 
 {% include resources.html content=site.resources %}
-
-## <a name="additional-resources">Optional Resources</a>
-
-{% include resources.html content=site.extra-resources %}
 
 ## Laptop Policy
 
