@@ -75,7 +75,7 @@ Hotel Recommendations
 
 | Position  | Volunteer | 
 |:------|:------|
-| Conference Chair         |  |
+| Conference Chair         | Susan Hammond |
 | Site Chair            | Dwayne Towell |
 | Papers Chair         |  |
 | Student Paper/Poster Chair         | |
