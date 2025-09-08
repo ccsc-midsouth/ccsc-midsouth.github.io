@@ -62,7 +62,8 @@ Hotel Recommendations
 ## <a name="committee">Organizers</a>
 
 ### Steering Committee
-| Position  | Holder | 
+
+| Position  | Volunteer | 
 |:------|:------|
 | Board Representative         | Gabe Ferrer |
 | Editor            |  |
@@ -71,7 +72,8 @@ Hotel Recommendations
 | Webmaster         | Mark Goadrich |
 
 ### Conference Committee
-| Position  | Holder | 
+
+| Position  | Volunteer | 
 |:------|:------|
 | Conference Chair         |  |
 | Site Chair            | Dwayne Towell |
