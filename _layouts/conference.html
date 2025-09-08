@@ -10,18 +10,15 @@ layout: default
           </div>
           <div class="col-md-6">
                   {% for offer in site.offerings %}
-                    <div class="instructor">
+                    <div class="host">
                     <h5>Time</h5>
                     <p>{{ offer.time }}</p>
                     <h5>Location</h5>
                     <p>{{ offer.loc }}</p>
-                    {% for inst in site.instructors %}
-                    {% if offer.instructor == inst.id %}
-                    <h5>Instructor</h5>
+                    {% for inst in site.hosts %}
+                    {% if offer.host == inst.id %}
+                    <h5>Host Institution</h5>
                     <p><a href="{{ inst.web}}">{{ inst.name}}</a><br>
-                    {{ inst.email }}<br>
-                    {{ inst.phone }}<br>
-                    <a href="{{ inst.officehours }}">Office Hours</a>
                     </p>
                     {% endif %}
                     {% endfor %}
@@ -37,8 +34,6 @@ layout: default
     <div class="container">
 
 {{ content }}
-
-      {% include course-commitments.html %}
 
     </div>
     <!-- /.container -->

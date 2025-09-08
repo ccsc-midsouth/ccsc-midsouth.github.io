@@ -110,7 +110,7 @@ table td{
 /* https://www.w3schools.com/css/tryit.asp?filename=trycss_table_striped */
 tr:nth-child(even) {background-color: var(--light-bg);}
 
-.instructor {
+.host {
 	background-color: var(--light-bg);
 	margin: 5px;
 	padding: 10px;
