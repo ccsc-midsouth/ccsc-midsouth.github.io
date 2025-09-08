@@ -13,10 +13,6 @@ layout: conference
 
 {{ site.description }}
 
-## <a name="sponsors">Sponsors</a>
-
-{% include resources.html content=site.resources %}
-
 ## <a name="cfp">Call for Participation</a>
 
 ### Papers
@@ -50,3 +46,11 @@ Registration for the CCSC:Midsouth conference is open. Use the button to registe
 * Retired? You must Must be 62 years of age or over, and retired from full time employmentn to qualify.
 
 ## <a name="travel">Travel</a>
+
+## <a name="committee">Conference Committee</a>
+
+
+
+## <a name="sponsors">Sponsors</a>
+
+{% include resources.html content=site.resources %}

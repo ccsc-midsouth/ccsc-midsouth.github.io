@@ -6,22 +6,21 @@ layout: default
       <div class="container">
         <div class="row">
           <div class="col-md-6 text-center">
-            <h2>{{ site.number}}<br>{{ site.title }}</h2>
+            <h2>{{ site.title}}<br>{{ site.semester }}</h2>
           </div>
           <div class="col-md-6">
                   {% for offer in site.offerings %}
                     <div class="host">
-                    <h5>Time</h5>
-                    <p>{{ offer.time }}</p>
-                    <h5>Location</h5>
-                    <p>{{ offer.loc }}</p>
                     {% for inst in site.hosts %}
                     {% if offer.host == inst.id %}
                     <h5>Host Institution</h5>
-                    <p><a href="{{ inst.web}}">{{ inst.name}}</a><br>
-                    </p>
+                      <p><a href="{{ inst.web}}">{{ inst.name}}</a><br></p>
                     {% endif %}
                     {% endfor %}
+                    <h5>Location</h5>
+                      <p>{{ offer.loc }}</p>
+                    <h5>Dates</h5>
+                      <p>{{ offer.time }}</p>
                     </div>
                   {% endfor %}
           </div>

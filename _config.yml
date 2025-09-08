@@ -27,31 +27,28 @@ semester: Spring 2026
 hypothesis: false
 
 navigation:
-  - title: Overview
-    subfolderitems:
-      - page: Description
-        url: '#description'
-      - page: Learning Goals
-        url: '#goals'
-      - page: Resources
-        url: '#resources'
+  - page: Overview
+    url: '#overview'
   - page: In-Class Code
     url: '#inclasscode'
-  - title: Coursework
+  - title: Submit
     subfolderitems:
-      - page: Homework and Quizzes
-        url: '#hwqz'
-      - page: Labs
-        url: '#labs'
-      - page: Projects
-        url: '#projects'
-      - page: Exams
-        url: '#exams'
-      - page: Scale
-        url: '#scale'
-  - page: Commitments
-    url: '#commitments'
-
+      - page: Papers
+        url: '#cfp'
+      - page: Panels
+        url: '#cfp'
+      - page: Tutorials
+        url: '#cfp'
+      - page: Student Papers
+        url: '#cfp'
+      - page: Student Posters
+        url: '#cfp'
+  - page: Register
+    url: '#registeration'
+  - page: Travel
+    url: '#travel'
+  - page: Committee
+    url: '#committee'
 hosts:
   - id: lipscomb
     name: Lipscomb University
