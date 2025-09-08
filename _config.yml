@@ -29,8 +29,6 @@ hypothesis: false
 navigation:
   - page: Overview
     url: '#overview'
-  - page: In-Class Code
-    url: '#inclasscode'
   - title: Submit
     subfolderitems:
       - page: Papers
@@ -44,10 +42,12 @@ navigation:
       - page: Student Posters
         url: '#cfp'
   - page: Register
-    url: '#registeration'
+    url: '#registration'
+  - page: Program
+    url: '#program'
   - page: Travel
     url: '#travel'
-  - page: Committee
+  - page: Organizers
     url: '#committee'
 hosts:
   - id: lipscomb

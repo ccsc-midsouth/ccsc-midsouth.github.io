@@ -27,9 +27,11 @@ layout: conference
 
 ## <a name="registration">Registration</a>
 
-Registration for the CCSC:Midsouth conference is open. Use the button to register for the conference.
+Registration for the CCSC:Midsouth conference is open.
 
-| Category  | Early Bird (4/1) | Regular (4/2 - 4/12)
+{% include important.html content="Early Registration ends April 1, 2025. Regular Registration is from April 2, 2025 to April 12, 2025." %}
+
+| Category  | Early Bird (until 4/1) | Regular (4/2 - 4/12) |
 |:------|------:|------:|
 | Author/Presenter          | $150  | $175 |
 | Full Attendee             | $100  | $120 |
@@ -41,15 +43,40 @@ Registration for the CCSC:Midsouth conference is open. Use the button to registe
 | Extra dinner              |       | $40 |
 | Extra lunch               |       | $20 |
 
-* Early Registration ends April 1, 2025. Regular Registration is from April 2, 2025 to April 12, 2025.
-* We do not accept cash payments.
-* Retired? You must Must be 62 years of age or over, and retired from full time employmentn to qualify.
+{% include tip.html content="Retired? You must Must be 62 years of age or over, and retired from full time employmentn to qualify." %}
+
+{% include warning.html content="We do not accept cash payments." %}
+
+## <a name="Program">Program</a>
+
+Program TBA
 
 ## <a name="travel">Travel</a>
 
-## <a name="committee">Conference Committee</a>
+How to get to Lipscomb
 
+A map?
 
+Hotel Recommendations
+
+## <a name="committee">Organizers</a>
+
+### Steering Committee
+| Position  | Holder | 
+|:------|:------|
+| Board Representative         | Gabe Ferrer |
+| Editor            |  |
+| Registrar         |  |
+| Treasurer         | Ed Lindoo |
+| Webmaster         | Mark Goadrich |
+
+### Conference Committee
+| Position  | Holder | 
+|:------|:------|
+| Conference Chair         |  |
+| Site Chair            | Dwayne Towell |
+| Papers Chair         |  |
+| Student Paper/Poster Chair         | |
 
 ## <a name="sponsors">Sponsors</a>
 
