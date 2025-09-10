@@ -19,17 +19,17 @@ layout: conference
 
 ### Panels
 
-### Tutorials
+### Tutorials / Workshops
+
+### Posters
 
 ### Student Papers
-
-### Student Posters
 
 ## <a name="registration">Registration</a>
 
 Registration for the CCSC:Midsouth conference is open.
 
-{% include important.html content="Early Registration ends April 1, 2025. Regular Registration is from April 2, 2025 to April 12, 2025." %}
+{% include important.html content="Early Registration ends April 1, 2026. Regular Registration is from April 2, 2026 to April 10, 2025." %}
 
 | Category  | Early Bird (until 4/1) | Regular (4/2 - 4/12) |
 |:------|------:|------:|
@@ -63,22 +63,24 @@ Hotel Recommendations
 
 ### Steering Committee
 
-| Position  | Volunteer | 
+| Position  | Volunteer | Institution | 
 |:------|:------|
-| Board Representative         | Gabe Ferrer |
-| Editor            |  |
-| Registrar         |  |
-| Treasurer         | Ed Lindoo |
-| Webmaster         | Mark Goadrich |
+| Regional Representative         | Gabe Ferrer | Hendrix College |
+| Editor            | TBA | |
+| Registrar         | TBA | |
+| Treasurer         | Ed Lindoo | |
+| Webmaster         | Mark Goadrich | Hendrix College
 
 ### Conference Committee
 
-| Position  | Volunteer | 
+| Position  | Volunteer | Institution |
 |:------|:------|
-| Conference Chair         | Susan Hammond |
-| Site Chair            | Dwayne Towell |
-| Papers Chair         |  |
-| Student Paper/Poster Chair         | |
+| Conference Chair         | Susan Hammond | Lipscomb University |
+| Papers Chair         | Robin Ghosh | Arkansas Tech University |
+| Poster Chair         | Kriti Chauhan | Austin Peay State University |
+| Workshops/Tutorials/Panels Chair | Olivera Grujic | California State University - Stanislaus |
+| Exhibitors Chair | Mario Guimares | Southeast Missouri State University |
+| Publicity Chair | Rao Li | University of South Carolina - Aiken |
 
 ## <a name="sponsors">Sponsors</a>
 

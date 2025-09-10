@@ -37,9 +37,7 @@ navigation:
         url: '#cfp'
       - page: Tutorials
         url: '#cfp'
-      - page: Student Papers
-        url: '#cfp'
-      - page: Student Posters
+      - page: Posters
         url: '#cfp'
   - page: Register
     url: '#registration'
