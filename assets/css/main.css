@@ -126,6 +126,8 @@ blockquote{
 	background-color: var(--light-bg);
 }
 
+#map { height: 180px; }
+
 /* https://idratherbewriting.com/documentation-theme-jekyll/mydoc_alerts.html */
 .alert {
     overflow: hidden;

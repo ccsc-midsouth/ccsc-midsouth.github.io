@@ -98,11 +98,20 @@ Program TBA
 
 ## <a name="travel">Travel</a>
 
-How to get to Lipscomb
+Lipscomb University is located at 1 University Park Dr, Nashville, TN 37204.
 
-A map?
+ <div id="map"></div>
+ <script>
+    var map = L.map('map').setView([36.104, -86.798], 13);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }).addTo(map);
+ </script>
 
-Hotel Recommendations
+### Hotel Recommendations
+
+Hotels TBA
 
 ## <a name="committee">Organizers</a>
 
