@@ -98,7 +98,7 @@ Program TBA
 
 ## <a name="travel">Travel</a>
 
-Lipscomb University is located at 1 University Park Dr, Nashville, TN 37204.
+Lipscomb University is located at [1 University Park Dr, Nashville, TN 37204](https://maps.app.goo.gl/4k2ZM1m62JaqTTgM6).
 
  <div id="map"></div>
  <script>
@@ -114,6 +114,9 @@ Lipscomb University is located at 1 University Park Dr, Nashville, TN 37204.
 Hotels TBA
 
 ## <a name="committee">Organizers</a>
+
+The CCSC:MidSouth Conference would not happen without the volunteers listed below. If you would like to volunteer to help organize future
+conferences, please contact [Gabe Ferrer](https://www.hendrix.edu/mathcs/profile.aspx?id=70718), CCSC MidSouth Regional Representative.
 
 ### Steering Committee
 
