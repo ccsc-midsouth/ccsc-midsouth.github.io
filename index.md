@@ -86,7 +86,7 @@ Registration for the CCSC:Midsouth conference is open. INCLUDE LINK!!!
 | Extra dinner              |       | $40 |
 | Extra lunch               |       | $20 |
 
-{% include tip.html content="Retired? You must Must be 62 years of age or over, and retired from full time employmentn to qualify." %}
+{% include tip.html content="Retired? You must be 62 years of age or over, and retired from full time employment to qualify." %}
 
 {% include warning.html content="We do not accept cash payments." %}
 
@@ -102,7 +102,7 @@ Lipscomb University is located at 1 University Park Dr, Nashville, TN 37204.
 
  <div id="map"></div>
  <script>
-    var map = L.map('map').setView([36.104, -86.798], 13);
+    var map = L.map('map').setView([36.104, -86.798], 15);
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
