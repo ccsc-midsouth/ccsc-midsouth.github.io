@@ -42,11 +42,11 @@ We invite professionals to submit papers that will enhance their knowledge of ac
 
 ### Panels / Tutorials / Workshops
 
-We invite professionals to submit abstracts describing panels, tutorials, and workshops related to academic computing topics which they believe conference attendees will find timely. All topics will be considered; those that are accepted will be presented at the conference and their abstracts published in the conference proceedings.
+We invite professionals to submit abstracts describing panels, tutorials, and workshops related to academic computing topics which they believe conference attendees will find timely. All topics will be considered; those that are accepted will be presented at the conference and their **one-page abstracts** published in the conference proceedings.
 
 ### Posters
 
-We invite professionals **and students** to submit abstracts describing posters related to academic computing topics which they believe conference attendees will find timely. All topics will be considered; those that are accepted will be presented at the conference and their abstracts published in the conference proceedings. 
+We invite professionals **and students** to submit abstracts describing posters related to academic computing topics which they believe conference attendees will find timely. All topics will be considered; those that are accepted will be presented at the conference and their **one-page abstracts** published in the conference proceedings. 
 
 {% endif %}
 
