@@ -76,9 +76,13 @@ Registration for the CCSC:Midsouth conference is open. INCLUDE LINK!!!
 
 {% endif %}
 
+{% if site.program %}
+
 ## <a name="Program">Program</a>
 
 Program TBA
+
+{% endif %}
 
 ## <a name="travel">Travel</a>
 

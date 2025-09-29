@@ -30,6 +30,7 @@ title: CCSC Midsouth
 semester: Spring 2026
 hypothesis: false
 participation: true
+program: false
 registration: false
 
 navigation:
@@ -43,13 +44,14 @@ navigation:
         url: '#cfp'
       - page: Tutorials
         url: '#cfp'
+      - page: Workshops
+        url: '#cfp'
       - page: Posters
         url: '#cfp'
-      - page: Student Papers
-  - page: Register
-    url: '#registration'
-  - page: Program
-    url: '#program'
+#  - page: Register
+#    url: '#registration'
+#  - page: Program
+#    url: '#program'
   - page: Travel
     url: '#travel'
   - page: Organizers
