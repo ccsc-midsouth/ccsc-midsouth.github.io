@@ -30,7 +30,7 @@ title: CCSC Midsouth
 semester: Spring 2026
 hypothesis: false
 participation: true
-registration: true
+registration: false
 
 navigation:
   - page: Overview
