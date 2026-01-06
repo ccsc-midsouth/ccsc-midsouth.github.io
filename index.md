@@ -92,7 +92,7 @@ Lipscomb University is located at [1 University Park Dr, Nashville, TN 37204](ht
  <script>
     var map = L.map('map').setView([36.104, -86.798], 15);
     var ccsc = L.marker([36.104398546933275, -86.79885670680494]).addTo(map);
-    ccsc..bindPopup("<b>CCSC Midsouth 2026</b><br>Libscomb University").openPopup();
+    ccsc.bindPopup("<b>CCSC Midsouth 2026</b><br>Lipscomb University").openPopup();
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
@@ -101,7 +101,7 @@ Lipscomb University is located at [1 University Park Dr, Nashville, TN 37204](ht
 
 ### Hotel Recommendations
 
-Multiple Hotels are available near Libscomb University. Please visit the Libscomb University website for [recommended hotels and booking codes](https://lipscomb.edu/student-life/nashville/staying).
+Multiple Hotels are available near Lipscomb University. Please visit the Lipscomb University website for [recommended hotels and booking codes](https://lipscomb.edu/student-life/nashville/staying).
 
 ## <a name="committee">Organizers</a>
 
