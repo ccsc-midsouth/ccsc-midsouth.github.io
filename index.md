@@ -99,7 +99,7 @@ Lipscomb University is located at [1 University Park Dr, Nashville, TN 37204](ht
 
 ### Hotel Recommendations
 
-Hotels TBA
+Multiple Hotels are available near Libscomb University. Please visit the Libscomb University website for [recommended hotels and booking codes](https://lipscomb.edu/student-life/nashville/staying).
 
 ## <a name="committee">Organizers</a>
 
