@@ -54,6 +54,10 @@ We invite professionals **and students** to submit abstracts describing posters 
 
 {% endif %}
 
+## <a name="programming">Student Programming Contest</a>
+
+We will be hosting a student programming contest Friday afternoon, April 10. The contest will be ICPC style, with provided Linux computers and a restricted network environment. More details are forthcoming.
+
 {% if site.registration %}
 
 ## <a name="registration">Registration</a>
