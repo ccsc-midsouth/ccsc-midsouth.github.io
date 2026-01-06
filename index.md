@@ -36,6 +36,10 @@ Thank you for considering a submission to our conference. We invite paper submis
 | Poster Submissions Due | Monday, March 16, 2026 |
 | Poster Notification | Monday, March 23, 2026 |
 
+#### Reviewers
+
+CCSC conferences rely on volunteers and assistance in many ways. Individuals who are interested in reviewing papers for CCSC can use [this form](https://forms.gle/BuBMkC2UQaNCmgh38) to submit their information.
+
 ### Papers
 
 We invite professionals to submit papers that will enhance their knowledge of academic computing topics. All topics will be considered and those papers that are accepted will be presented at the conference and published in the [Journal of Computing Sciences in Colleges](https://www.ccsc.org/journal/) and the [ACM Digital Library](https://dl.acm.org/). Papers (at most 10 pages, single-spaced) must be **anonymized to allow blind reviewing.** 
