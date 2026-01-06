@@ -56,7 +56,7 @@ We invite professionals **and students** to submit abstracts describing posters 
 
 ## <a name="programming">Student Programming Contest</a>
 
-We will be hosting a student programming contest Friday afternoon, April 10. The contest will be ICPC style, with provided Linux computers and a restricted network environment. More details are forthcoming.
+We will be hosting a student programming contest Friday afternoon, April 10, with prizes awarded. Each team may have up to three students from a college or university. The registration deadline for the student programming contest is March 27, 2026. The contest will be ICPC style, with provided Linux computers and a restricted network environment. More details are forthcoming.
 
 {% if site.registration %}
 
