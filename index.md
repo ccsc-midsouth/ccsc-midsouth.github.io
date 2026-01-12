@@ -56,7 +56,43 @@ We invite professionals **and students** to submit abstracts describing posters 
 
 ## <a name="programming">Student Programming Contest</a>
 
-We will be hosting a student programming contest Friday afternoon, April 10, with prizes awarded. Each team may have up to three students from a college or university. The registration deadline for the student programming contest is March 27, 2026. The contest will be ICPC style, with provided Linux computers and a restricted network environment. More details are forthcoming.
+We will be hosting a student programming contest Friday afternoon, April 10, with prizes awarded. Each team may have up to three students from a college or university. Team members must be enrolled fulltime at the same institution and seeking an undergraduate degree. 
+
+Team registration entitles the team members to attend the plenary session and many conference sessions, as well as dinner and snacks during the programming contest and lunch during the closing ceremony. Programming Contest registration does NOT include the banquet on Friday night. The team advisor/coach should register as a regular conference participant or attendee.
+
+The registration deadline for the student programming contest is **March 27, 2026**. 
+
+We will provide a Linux laptop for each team and a restricted network environment.
+
+### Schedule
+
+Friday 4/10, 4:30pm - 5:30pm: practice, registration, questions, instructions
+
+Friday 4/10, 5:30pm - 8:30pm: contest
+
+Saturday 4/11, 11:00am - 12:30pm: (second breakout session) debrief and awards
+
+### Format
+
+The contest is similar to the International Collegiate Programming Contest (ICPC).
+
+Teams have three hours to solve as many problems as possible. Typically around eight problems are provided and may be solved in any order. The team that correctly solves the most problems wins, with ties broken by the quickest solutions. The ranking rules are identical to the ICPC.  
+
+Teams have a single computer (provided) with limited network access but may bring printed (non-electronic) references and resources. 
+
+Teams should be familiar with command-line tools for compiling and running programs. Like the ICPC, all input and output for programs is from the *nix "standard input" stream and to the "standard output" stream. Teams may write solutions in C, C++, Java, or Python.
+
+Teams submit solutions to an online judge similar to Kattis. The exact details and a practice session will be provided before the contest begins. 
+
+Snacks and dinner will be provided to team members.
+
+### More Information
+
+A copy of the exact rules will be provided to registered teams before the conference.
+
+If you have other questions, please contact the Director.
+
+We hope to see you in April!
 
 {% if site.registration %}
 
