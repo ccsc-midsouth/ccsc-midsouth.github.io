@@ -32,7 +32,7 @@ Thank you for considering a submission to our conference. We invite paper submis
 | Event | Date |
 |:------|:-----|
 | Submissions Due | Monday, January 24, 2026 ~~January 12, 2026~~ |
-| Paper / Panel / Tutorial / Workshop Notification | Wednesday, February 4, 2026 |
+| Paper / Panel / Tutorial / Workshop Notification | Wednesday, March 3, 2026 |
 | Poster Submissions Due | Monday, March 16, 2026 |
 | Poster Notification | Monday, March 23, 2026 |
 
