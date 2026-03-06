@@ -98,7 +98,7 @@ We hope to see you in April!
 
 ## <a name="registration">Registration</a>
 
-Registration for the CCSC:Midsouth conference is open. INCLUDE LINK!!!
+[Registration](https://www.conftool.org/ccsc-ms/) for the CCSC:Midsouth conference is open!
 
 {% include important.html content="Early Registration ends April 1, 2026. Regular Registration is from April 2, 2026 to April 10, 2025." %}
 
@@ -110,7 +110,7 @@ Registration for the CCSC:Midsouth conference is open. INCLUDE LINK!!!
 | Retired Faculty           | $50  | $50 |
 | K-12 Faculty              | $50  | $50 |
 | Student Full              | $75  | $75 |
-| Student w. no meals       | $30  | $30 |
+| Student w. no meals       | $25  | $25 |
 | Extra dinner              |       | $40 |
 | Extra lunch               |       | $20 |
 

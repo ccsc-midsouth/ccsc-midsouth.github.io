@@ -31,7 +31,7 @@ semester: Spring 2026
 hypothesis: false
 participation: true
 program: false
-registration: false
+registration: true
 
 navigation:
   - page: Overview
@@ -48,8 +48,8 @@ navigation:
         url: '#cfp'
       - page: Posters
         url: '#cfp'
-#  - page: Register
-#    url: '#registration'
+  - page: Register
+    url: '#registration'
 #  - page: Program
 #    url: '#program'
   - page: Travel
