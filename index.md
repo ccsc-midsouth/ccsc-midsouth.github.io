@@ -13,6 +13,32 @@ layout: conference
 
 {{ site.description }}
 
+{% if site.registration %}
+
+## <a name="registration">Registration</a>
+
+[Registration](https://www.conftool.org/ccsc-ms/) for the CCSC:Midsouth conference is open!
+
+{% include important.html content="Early Registration ends April 1, 2026. Regular Registration is from April 2, 2026 to April 10, 2025." %}
+
+| Category  | Early Bird (until 4/1) | Regular (4/2 - 4/12) |
+|:------|------:|------:|
+| Author/Presenter          | $150  | $175 |
+| Full Attendee             | $100  | $120 |
+| Full Attendee w. no meals | $50  | $50 |
+| Retired Faculty           | $50  | $50 |
+| K-12 Faculty              | $50  | $50 |
+| Student Full              | $75  | $75 |
+| Student w. no meals       | $25  | $25 |
+| Extra dinner              |       | $40 |
+| Extra lunch               |       | $20 |
+
+{% include tip.html content="Retired? You must be 62 years of age or over, and retired from full time employment to qualify." %}
+
+{% include warning.html content="We do not accept cash payments." %}
+
+{% endif %}
+
 {% if site.participation %}
 
 ## <a name="cfp">Call for Participation</a>
@@ -93,32 +119,6 @@ A copy of the exact rules will be provided to registered teams before the confer
 If you have other questions, please contact the Director.
 
 We hope to see you in April!
-
-{% if site.registration %}
-
-## <a name="registration">Registration</a>
-
-[Registration](https://www.conftool.org/ccsc-ms/) for the CCSC:Midsouth conference is open!
-
-{% include important.html content="Early Registration ends April 1, 2026. Regular Registration is from April 2, 2026 to April 10, 2025." %}
-
-| Category  | Early Bird (until 4/1) | Regular (4/2 - 4/12) |
-|:------|------:|------:|
-| Author/Presenter          | $150  | $175 |
-| Full Attendee             | $100  | $120 |
-| Full Attendee w. no meals | $50  | $50 |
-| Retired Faculty           | $50  | $50 |
-| K-12 Faculty              | $50  | $50 |
-| Student Full              | $75  | $75 |
-| Student w. no meals       | $25  | $25 |
-| Extra dinner              |       | $40 |
-| Extra lunch               |       | $20 |
-
-{% include tip.html content="Retired? You must be 62 years of age or over, and retired from full time employment to qualify." %}
-
-{% include warning.html content="We do not accept cash payments." %}
-
-{% endif %}
 
 {% if site.program %}
 
