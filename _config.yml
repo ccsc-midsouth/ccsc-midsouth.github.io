@@ -69,21 +69,22 @@ offerings:
     host: lipscomb
 
 resources:
+  - name: College Board
+    image: assets/images/CollegeBoardLogo.jpg
+    url: https://apstudents.collegeboard.org/courses/ap-computer-science-a
   - name: Rephactor
     image: assets/images/rephactor-logo.png
     url: https://rephactor.com
-  - name: ACM2y
+  - name: ACM2y CCECC
     image: assets/images/acm2y-logo_a.jpg
     url: https://acm2y.acm.org
-  - name: GitHub
-    image: assets/images/GitHub-logo.png
-    url: https://github.com
-  - name: CodeGrade
-    image: assets/images/CodeGrade-logo.png
-    url: https://codegrade.com
-  - name: CodeZinger
-    image: assets/images/codezinger-logo.png
-    url: https://codezinger.com
+  - name: Blossoms
+    image: assets/images/Blossoms-logo.png
+    url: https://acm2y.acm.org
+  - name: MAP-CS
+    image: assets/images/MAP-CS-logo.png
+    url: https://map-cs.org/
+
 # Build settings
 markdown: kramdown
 plugins:

@@ -30,6 +30,7 @@ layout: conference
 | K-12 Faculty              | $50  | $50 |
 | Student Full              | $75  | $75 |
 | Student w. no meals       | $25  | $25 |
+| Student (Programming Contest Only)       | $25  | $25 |
 | Extra dinner              |       | $40 |
 | Extra lunch               |       | $20 |
 
