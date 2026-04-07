@@ -147,8 +147,10 @@ Lipscomb University is located at [1 University Park Dr, Nashville, TN 37204](ht
 <a href="{{site.baseurl}}/assets/images/LipscombMap.pdf"><img class="img-fluid" src="{{site.baseurl}}/assets/images/LipscombMap.png" alt="Map of Lipscomb Campus" border="1"></a>
 
 
-The majority of the conference will take place in the Fields Engineering Center (building 10 on the map).  
+The majority of the conference will take place in the Fields Engineering Center (building 10 on the map). 
+
 There will be reserved parking for conference attendees on the lower level of the North Parking lot (labeled P3 on the map) behind the Fields Engineering Center.  
+
 On Friday, after parking in the North Lot, please proceed to McFarland (labeled building 4) for the opening plenary session.  Student volunteers will be available to provide directions.  
 
 ### Hotel Recommendations
