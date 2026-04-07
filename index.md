@@ -13,6 +13,15 @@ layout: conference
 
 {{ site.description }}
 
+{% if site.program %}
+
+## <a name="Program">Program</a>
+
+The conference program is available at [conftool](https://www.conftool.org/ccsc-ms/index.php?page=browseSessions&print=embed).
+
+{% endif %}
+
+
 {% if site.registration %}
 
 ## <a name="registration">Registration</a>
@@ -121,14 +130,6 @@ If you have other questions, please contact the Director.
 
 We hope to see you in April!
 
-{% if site.program %}
-
-## <a name="Program">Program</a>
-
-Program TBA
-
-{% endif %}
-
 ## <a name="travel">Travel</a>
 
 Lipscomb University is located at [1 University Park Dr, Nashville, TN 37204](https://maps.app.goo.gl/4k2ZM1m62JaqTTgM6).
@@ -142,6 +143,13 @@ Lipscomb University is located at [1 University Park Dr, Nashville, TN 37204](ht
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
  </script>
+
+<a href="{{site.baseurl}}/assets/images/LipscombMap.pdf"><img class="img-fluid" src="{{site.baseurl}}/assets/images/LipscombMap.png" alt="Map of Lipscomb Campus" border="1"></a>
+
+
+The majority of the conference will take place in the Fields Engineering Center (building 10 on the map).  
+There will be reserved parking for conference attendees on the lower level of the North Parking lot (labeled P3 on the map) behind the Fields Engineering Center.  
+On Friday, after parking in the North Lot, please proceed to McFarland (labeled building 4) for the opening plenary session.  Student volunteers will be available to provide directions.  
 
 ### Hotel Recommendations
 
