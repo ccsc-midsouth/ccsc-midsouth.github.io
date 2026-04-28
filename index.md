@@ -167,7 +167,7 @@ conferences, please contact [Gabe Ferrer](https://www.hendrix.edu/mathcs/profile
 | Position  | Volunteer | Institution | 
 |:------|:------|
 | Regional Representative         | Gabe Ferrer | Hendrix College |
-| Editor            | TBA | |
+| Editor            | Kriti Chauhan | Austin Peay State University |
 | Registrar         | TBA | |
 | Treasurer         | Ed Lindoo | Regis University|
 | Webmaster         | Mark Goadrich | Hendrix College
