@@ -10,6 +10,7 @@ year: 2027
 participation: true
 program: false
 registration: false
+travel: false
 ---
 <br/>
 
@@ -25,16 +26,15 @@ The conference program is available at [conftool](https://www.conftool.org/ccsc-
 
 {% endif %}
 
-
 {% if page.registration %}
 
 ## <a name="registration">Registration</a>
 
 [Registration](https://www.conftool.org/ccsc-ms/) for the CCSC:Midsouth conference is open!
 
-{% include important.html content="Early Registration ends April 1, 2026. Regular Registration is from April 2, 2026 to April 10, 2025." %}
+{% include important.html content="Early Registration ends ???. Regular Registration is from ??? to ???." %}
 
-| Category  | Early Bird (until 4/1) | Regular (4/2 - 4/12) |
+| Category  | Early Bird (until ???) | Regular (???) |
 |:------|------:|------:|
 | Author/Presenter          | $150  | $175 |
 | Full Attendee             | $100  | $120 |
@@ -71,10 +71,10 @@ Thank you for considering a submission to our conference. We invite paper submis
 
 | Event | Date |
 |:------|:-----|
-| Submissions Due | Monday, January 24, 2026 ~~January 12, 2026~~ |
-| Paper / Panel / Tutorial / Workshop Notification | Wednesday, March 3, 2026 |
-| Poster Submissions Due | Monday, March 20, 2026 |
-| Poster Notification | Monday, March 23, 2026 |
+| Submissions Due | TBD |
+| Paper / Panel / Tutorial / Workshop Notification | TBD |
+| Poster Submissions Due | TBD |
+| Poster Notification | TBD |
 
 #### Reviewers
 
@@ -94,23 +94,25 @@ We invite professionals **and students** to submit abstracts describing posters 
 
 {% endif %}
 
+{% if page.programming %}
+
 ## <a name="programming">Student Programming Contest</a>
 
 We will be hosting a student programming contest Friday afternoon, April 10, with prizes awarded. Each team may have up to three students from a college or university. Team members must be enrolled fulltime at the same institution and seeking an undergraduate degree. 
 
 Team registration entitles the team members to attend the plenary session and many conference sessions, as well as dinner and snacks during the programming contest and lunch during the closing ceremony. Programming Contest registration does NOT include the banquet on Friday night. The team advisor/coach should register as a regular conference participant or attendee.
 
-The registration deadline for the student programming contest is **March 27, 2026**. 
+The registration deadline for the student programming contest is **???**. 
 
 We will provide a Linux laptop for each team and a restricted network environment.
 
 ### Schedule
 
-Friday 4/10, 4:30pm - 5:30pm: practice, registration, questions, instructions
+Friday 4:30pm - 5:30pm: practice, registration, questions, instructions
 
-Friday 4/10, 5:30pm - 8:30pm: contest
+Friday 5:30pm - 8:30pm: contest
 
-Saturday 4/11, 11:00am - 12:30pm: (second breakout session) debrief and awards
+Saturday 11:00am - 12:30pm: (second breakout session) debrief and awards
 
 ### Format
 
@@ -133,6 +135,10 @@ A copy of the exact rules will be provided to registered teams before the confer
 If you have other questions, please contact the Director.
 
 We hope to see you in April!
+
+{% endif %}
+
+{% if page.travel %}
 
 ## <a name="travel">Travel</a>
 
@@ -160,6 +166,8 @@ On Friday, after parking in the North Lot, please proceed to McFarland (labeled 
 ### Hotel Recommendations
 
 Multiple Hotels are available near Lipscomb University. Please visit the Lipscomb University website for [recommended hotels and booking codes](https://lipscomb.edu/student-life/nashville/staying).
+
+{% endif %}
 
 ## <a name="committee">Organizers</a>
 
