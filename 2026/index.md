@@ -6,6 +6,10 @@
 # uncomment the following line and comment out the course-multi line
 
 layout: conference
+year: 2026
+participation: true
+program: true
+registration: true
 ---
 <br/>
 
@@ -13,7 +17,7 @@ layout: conference
 
 {{ site.description }}
 
-{% if site.program %}
+{% if page.program %}
 
 ## <a name="Program">Program</a>
 
@@ -22,7 +26,7 @@ The conference program is available at [conftool](https://www.conftool.org/ccsc-
 {% endif %}
 
 
-{% if site.registration %}
+{% if page.registration %}
 
 ## <a name="registration">Registration</a>
 
@@ -49,7 +53,7 @@ The conference program is available at [conftool](https://www.conftool.org/ccsc-
 
 {% endif %}
 
-{% if site.participation %}
+{% if page.participation %}
 
 ## <a name="cfp">Call for Participation</a>
 

@@ -27,7 +27,7 @@ url: "https://ccsc-midsouth.github.io" # the base hostname & protocol for your s
 
 number: CCSC-MS
 title: CCSC Midsouth
-semester: Spring 2026
+semester: Spring 2027
 hypothesis: false
 participation: true
 program: true
@@ -61,12 +61,19 @@ hosts:
   - id: lipscomb
     name: Lipscomb University
     web: https://lipscomb.edu/
+  - id: semo
+    name: Southeast Missouri State University
+    web: https://semo.edu/
 
 offerings:
   - id: 2026
     loc: Nashville, TN
     time: April 10-11, 2026
     host: lipscomb
+  - id: 2027
+    loc: Cape Girardeau, MO
+    time: April 9-10, 2027
+    host: semo
 
 resources:
   - name: College Board

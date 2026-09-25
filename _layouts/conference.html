@@ -10,6 +10,7 @@ layout: default
           </div>
           <div class="col-md-6">
                   {% for offer in site.offerings %}
+                  {% if page.year == offer.id %}
                     <div class="host">
                     {% for inst in site.hosts %}
                     {% if offer.host == inst.id %}
@@ -22,6 +23,7 @@ layout: default
                     <h5>Dates</h5>
                       <p>{{ offer.time }}</p>
                     </div>
+                  {% endif %}
                   {% endfor %}
           </div>
         </div>

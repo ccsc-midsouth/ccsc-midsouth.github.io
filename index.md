@@ -6,6 +6,10 @@
 # uncomment the following line and comment out the course-multi line
 
 layout: conference
+year: 2027
+participation: true
+program: false
+registration: false
 ---
 <br/>
 
@@ -13,7 +17,7 @@ layout: conference
 
 {{ site.description }}
 
-{% if site.program %}
+{% if page.program %}
 
 ## <a name="Program">Program</a>
 
@@ -22,7 +26,7 @@ The conference program is available at [conftool](https://www.conftool.org/ccsc-
 {% endif %}
 
 
-{% if site.registration %}
+{% if page.registration %}
 
 ## <a name="registration">Registration</a>
 
@@ -49,7 +53,7 @@ The conference program is available at [conftool](https://www.conftool.org/ccsc-
 
 {% endif %}
 
-{% if site.participation %}
+{% if page.participation %}
 
 ## <a name="cfp">Call for Participation</a>
 
@@ -176,12 +180,13 @@ conferences, please contact [Gabe Ferrer](https://www.hendrix.edu/mathcs/profile
 
 | Position  | Volunteer | Institution |
 |:------|:------|
-| Conference Chair         | Susan Hammond | Lipscomb University |
-| Papers Chair         | Robin Ghosh | Arkansas Tech University |
-| Poster Chair         | Kriti Chauhan | Austin Peay State University |
-| Workshops/Tutorials/Panels Chair | Olivera Grujic | California State University - Stanislaus |
-| Exhibitors Chair | Mario Guimares | Southeast Missouri State University |
-| Publicity Chair | Rao Li | University of South Carolina - Aiken |
+| Conference Chair         | Mario Guimares | Southeast Missouri State University |
+| Papers Co-Chair         | Robin Ghosh | Arkansas Tech University |
+| Papers Co-Chair         | Kriti Chauhan | Austin Peay State University |
+| Posters Chair | TBA |  |
+| Workshops/Tutorials/Panels Chair | TBA |  |
+| Exhibitors Chair | TBA |  |
+| Publicity Chair | TBA |  |
 
 ## <a name="sponsors">Sponsors</a>
 
