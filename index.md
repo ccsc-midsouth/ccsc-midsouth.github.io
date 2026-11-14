@@ -21,7 +21,7 @@ travel: false
 
 {% if page.program %}
 
-## <a name="Program">Program</a>
+# <a name="Program">Program</a>
 
 The conference program is available at [conftool](https://www.conftool.org/ccsc-ms/index.php?page=browseSessions&print=embed).
 
@@ -29,7 +29,7 @@ The conference program is available at [conftool](https://www.conftool.org/ccsc-
 
 {% if page.registration %}
 
-## <a name="registration">Registration</a>
+# <a name="registration">Registration</a>
 
 [Registration](https://www.conftool.org/ccsc-ms/) for the CCSC:Midsouth conference is open!
 
@@ -56,11 +56,11 @@ The conference program is available at [conftool](https://www.conftool.org/ccsc-
 
 {% if page.participation %}
 
-## <a name="cfp">Call for Participation</a>
+# <a name="cfp">Call for Participation</a>
 
 Thank you for considering a submission to our conference. We invite paper submissions for in-person presentation at the conference. We are also accepting submissions for in-person panels, tutorials, workshops, and posters.
 
-#### Submission is an Easy 3-Step Process:
+### Submission is an Easy 3-Step Process:
 
 1. Develop your manuscript (for papers) or abstract (for proposals for panels, tutorials, workshops, or posters). Papers must be 10 pages or less.
 
@@ -68,7 +68,7 @@ Thank you for considering a submission to our conference. We invite paper submis
 
 1. Submit your manuscript PDF at our [submission portal](https://www.conftool.org/ccsc-ms/).
 
-#### Timeline
+### Timeline
 
 | Event | Type | Date |
 |:------|:-----|:-----|
@@ -77,19 +77,19 @@ Thank you for considering a submission to our conference. We invite paper submis
 | Poster | Submissions Due | March 3, 2027 |
 |  | Notification | March 10, 2027 |
 
-#### Reviewers
+### Reviewers
 
 CCSC conferences rely on volunteers and assistance in many ways. Individuals who are interested in reviewing papers for CCSC can use [this form](https://forms.gle/BuBMkC2UQaNCmgh38) to submit their information.
 
-### Papers
+## Papers
 
 We invite professionals to submit papers that will enhance their knowledge of academic computing topics. All topics will be considered and those papers that are accepted will be presented at the conference and published in the [Journal of Computing Sciences in Colleges](https://www.ccsc.org/journal/) and the [ACM Digital Library](https://dl.acm.org/). Papers (at most 10 pages, single-spaced) must be **anonymized to allow blind reviewing.** 
 
-### Panels / Tutorials / Workshops
+## Panels / Tutorials / Workshops
 
 We invite professionals to submit abstracts describing panels, tutorials, and workshops related to academic computing topics which they believe conference attendees will find timely. All topics will be considered; those that are accepted will be presented at the conference and their **one-page abstracts** published in the conference proceedings.
 
-### Posters
+## Posters
 
 We invite professionals **and students** to submit abstracts describing posters related to academic computing topics which they believe conference attendees will find timely. All topics will be considered; those that are accepted will be presented at the conference and their **one-page abstracts** published in the conference proceedings. 
 
@@ -97,7 +97,7 @@ We invite professionals **and students** to submit abstracts describing posters 
 
 {% if page.programming %}
 
-## <a name="programming">Student Programming Contest</a>
+# <a name="programming">Student Programming Contest</a>
 
 We will be hosting a student programming contest Friday afternoon, April 10, with prizes awarded. Each team may have up to three students from a college or university. Team members must be enrolled fulltime at the same institution and seeking an undergraduate degree. 
 
@@ -107,7 +107,7 @@ The registration deadline for the student programming contest is **???**.
 
 We will provide a Linux laptop for each team and a restricted network environment.
 
-### Schedule
+## Schedule
 
 Friday 4:30pm - 5:30pm: practice, registration, questions, instructions
 
@@ -115,7 +115,7 @@ Friday 5:30pm - 8:30pm: contest
 
 Saturday 11:00am - 12:30pm: (second breakout session) debrief and awards
 
-### Format
+## Format
 
 The contest is similar to the International Collegiate Programming Contest (ICPC).
 
@@ -129,7 +129,7 @@ Teams submit solutions to an online judge similar to Kattis. The exact details a
 
 Snacks and dinner will be provided to team members.
 
-### More Information
+## More Information
 
 A copy of the exact rules will be provided to registered teams before the conference.
 
@@ -141,7 +141,7 @@ We hope to see you in April!
 
 {% if page.travel %}
 
-## <a name="travel">Travel</a>
+# <a name="travel">Travel</a>
 
 Lipscomb University is located at [1 University Park Dr, Nashville, TN 37204](https://maps.app.goo.gl/4k2ZM1m62JaqTTgM6).
 
@@ -164,18 +164,18 @@ There will be reserved parking for conference attendees on the lower level of th
 
 On Friday, after parking in the North Lot, please proceed to McFarland (labeled building 4) for the opening plenary session.  Student volunteers will be available to provide directions.  
 
-### Hotel Recommendations
+## Hotel Recommendations
 
 Multiple Hotels are available near Lipscomb University. Please visit the Lipscomb University website for [recommended hotels and booking codes](https://lipscomb.edu/student-life/nashville/staying).
 
 {% endif %}
 
-## <a name="committee">Organizers</a>
+# <a name="committee">Organizers</a>
 
 The CCSC:MidSouth Conference would not happen without the volunteers listed below. If you would like to volunteer to help organize future
 conferences, please contact [Gabe Ferrer](https://www.hendrix.edu/mathcs/profile.aspx?id=70718), CCSC MidSouth Regional Representative.
 
-### Steering Committee
+## Steering Committee
 
 | Position  | Volunteer | Institution | 
 |:------|:------|
@@ -185,7 +185,7 @@ conferences, please contact [Gabe Ferrer](https://www.hendrix.edu/mathcs/profile
 | Treasurer         | Ed Lindoo | Regis University|
 | Webmaster         | Mark Goadrich | Hendrix College
 
-### Conference Committee
+## Conference Committee
 
 | Position  | Volunteer | Institution |
 |:------|:------|
@@ -197,6 +197,6 @@ conferences, please contact [Gabe Ferrer](https://www.hendrix.edu/mathcs/profile
 | Exhibitors Chair | TBA |  |
 | Publicity Chair | TBA |  |
 
-## <a name="sponsors">Sponsors</a>
+# <a name="sponsors">Sponsors</a>
 
 {% include resources.html content=site.resources %}

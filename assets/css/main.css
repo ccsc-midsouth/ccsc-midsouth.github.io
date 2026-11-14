@@ -12,6 +12,16 @@ body {
   padding-top: 54px;
 }
 
+:is(h1, h2, h3, h4, h5, h6) {
+font-weight: 400;
+font-style: normal;
+}
+
+h1 {
+  border-block-start: .375rem solid var(--orange-accessible);
+  padding-block-start: 1rem;
+}
+
 @media (min-width: 992px) {
   body {
     padding-top: 56px;
