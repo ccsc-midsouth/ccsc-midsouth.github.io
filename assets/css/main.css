@@ -18,7 +18,7 @@ font-style: normal;
 }
 
 h1 {
-  border-block-start: .375rem solid var(--orange-accessible);
+  border-block-start: .375rem solid var(--main-color);
   padding-block-start: 1rem;
 }
 
