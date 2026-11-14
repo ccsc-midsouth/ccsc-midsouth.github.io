@@ -27,11 +27,6 @@ url: "https://ccsc-midsouth.github.io" # the base hostname & protocol for your s
 
 number: CCSC-MS
 title: CCSC Midsouth
-semester: Spring 2027
-hypothesis: false
-participation: true
-program: true
-registration: true
 
 navigation:
   - page: Overview
@@ -59,7 +54,7 @@ navigation:
   - title: Archive
     subfolderitems:
       - page: 2026
-        url: '/2026'
+        url: '2026/'
  
 hosts:
   - id: lipscomb

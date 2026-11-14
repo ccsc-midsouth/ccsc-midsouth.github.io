@@ -6,7 +6,8 @@
 # uncomment the following line and comment out the course-multi line
 
 layout: conference
-semester: 2026
+semester: Spring
+year: 2026
 participation: true
 program: true
 registration: true
