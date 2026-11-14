@@ -6,7 +6,7 @@
 # uncomment the following line and comment out the course-multi line
 
 layout: conference
-year: 2027
+semester: 2027
 participation: true
 program: false
 registration: false
@@ -69,12 +69,12 @@ Thank you for considering a submission to our conference. We invite paper submis
 
 #### Timeline
 
-| Event | Date |
-|:------|:-----|
-| Submissions Due | TBD |
-| Paper / Panel / Tutorial / Workshop Notification | TBD |
-| Poster Submissions Due | TBD |
-| Poster Notification | TBD |
+| Event | Type | Date |
+|:------|:-----|:-----|
+| Paper / Panel / Tutorial / Workshop | Submissions Due | January 18, 2027 |
+|  | Notification | February 18, 2027 |
+| Poster | Submissions Due | March 3, 2027 |
+|  | Notification | March 10, 2027 |
 
 #### Reviewers
 

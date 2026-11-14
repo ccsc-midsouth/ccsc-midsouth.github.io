@@ -6,10 +6,11 @@
 # uncomment the following line and comment out the course-multi line
 
 layout: conference
-year: 2026
+semester: 2026
 participation: true
 program: true
 registration: true
+travel: true
 ---
 <br/>
 
@@ -134,6 +135,8 @@ If you have other questions, please contact the Director.
 
 We hope to see you in April!
 
+{% if page.travel %}
+
 ## <a name="travel">Travel</a>
 
 Lipscomb University is located at [1 University Park Dr, Nashville, TN 37204](https://maps.app.goo.gl/4k2ZM1m62JaqTTgM6).
@@ -160,6 +163,8 @@ On Friday, after parking in the North Lot, please proceed to McFarland (labeled 
 ### Hotel Recommendations
 
 Multiple Hotels are available near Lipscomb University. Please visit the Lipscomb University website for [recommended hotels and booking codes](https://lipscomb.edu/student-life/nashville/staying).
+
+{% endif %}
 
 ## <a name="committee">Organizers</a>
 

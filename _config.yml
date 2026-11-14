@@ -56,7 +56,11 @@ navigation:
     url: '#travel'
   - page: Organizers
     url: '#committee'
-
+  - title: Archive
+    subfolderitems:
+      - page: 2026
+        url: '/2026'
+ 
 hosts:
   - id: lipscomb
     name: Lipscomb University
